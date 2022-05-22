@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>new branch</p>
+        <p>netlify no deploy. Change branche</p>
         <a
           className="App-link"
           href="https://reactjs.org"
